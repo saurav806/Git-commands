@@ -15,7 +15,7 @@ push an existing repository from the command line
 # git push -u origin main
 
 update your changes with the same folder
-$ git init
-$ git add .
-$ git commit -m "second commit"
-$ git push
+# git init
+# git add .
+# git commit -m "second commit"
+# git push
